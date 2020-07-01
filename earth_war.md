@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>신영재</td>
-          <td>신영재</td>
-          <td>신영재</td>
-          <td>신영재</td>
-          <td>신영재</td>
+          <td>배정규</td>
+          <td>배정규</td>
+          <td>배정규</td>
+          <td>배정규</td>
+          <td>배정규</td>
         </tr>
         <tr>
-          <td>배정규</td>
-          <td>배정규</td>
-          <td>배정규</td>
-          <td>배정규</td>
-          <td>배정규</td>
+          <td>이곤호</td>
+          <td>이름</td>
+          <td>이곤호</td>
+          <td>이름</td>
+          <td>이름</td>
         </tr>
       </tbody>
 </table>
