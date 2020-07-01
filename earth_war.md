@@ -1,17 +1,17 @@
 <table>
       <tbody>
         <tr>
+          <td>안솔</td>
           <td>이름</td>
+          <td>안솔</td>
           <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>안솔</td>
         </tr>
         <tr>
+          <td>안솔</td>
           <td>이름</td>
           <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>안솔</td>
           <td>이름</td>
         </tr>
       </tbody>
