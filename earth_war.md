@@ -8,11 +8,11 @@
           <td>신영재</td>
         </tr>
         <tr>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>배정규</td>
+          <td>배정규</td>
+          <td>배정규</td>
+          <td>배정규</td>
+          <td>배정규</td>
         </tr>
       </tbody>
 </table>
