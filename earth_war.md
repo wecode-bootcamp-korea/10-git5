@@ -2,16 +2,28 @@
       <tbody>
         <tr>
           <td>안솔</td>
-          <td>이름</td>
+          <td>안솔</td>
           <td>안솔</td>
           <td>이름</td>
+<<<<<<< HEAD
           <td>안솔</td>
         </tr>
         <tr>
           <td>안솔</td>
-          <td>이름</td>
-          <td>이름</td>
           <td>안솔</td>
+          <td>안솔</td>
+          <td>안솔</td>
+=======
+          <td>이곤호</td>
+          <td>이름</td>
+          <td>이곤호</td>
+        </tr>
+        <tr>
+          <td>이곤호</td>
+          <td>이름</td>
+          <td>이곤호</td>
+          <td>이름</td>
+>>>>>>> b59ba818fb0c610d66b925365b50c8a21115e64e
           <td>이름</td>
         </tr>
       </tbody>
